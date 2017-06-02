@@ -9,6 +9,9 @@ uab_florin:
     resource: "@UabFlorinBundle/Resources/config/routing.yml"
     prefix:   /florin
 
+uab_bisca:
+    resource: "@UabBiscaBundle/Resources/config/routing.yml"
+    prefix:   /bisca
 uab_magerusan:
     resource: "@UabMagerusanBundle/Resources/config/routing.yml"
     prefix:   /magerusan

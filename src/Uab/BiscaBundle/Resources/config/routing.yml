@@ -1,0 +1,3 @@
+uab_bisca_homepage:
+    path:     /
+    defaults: { _controller: UabBiscaBundle:Default:index }

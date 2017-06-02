@@ -1,0 +1,4 @@
+services:
+#    uab_bisca.example:
+#        class: Uab\BiscaBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
