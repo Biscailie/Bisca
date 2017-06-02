@@ -21,6 +21,7 @@ class AppKernel extends Kernel
             new Uab\MagerusanBundle\UabMagerusanBundle(),
             new Uab\SolymosiBundle\UabSolymosiBundle(),
           	new Uab\BreazBundle\UabBreazBundle(),
+			new Uab\BiscaBundle\UabBiscaBundle(),
             
 	    new Uab\PocrisBundle\UabPocrisBundle(),
         ];
